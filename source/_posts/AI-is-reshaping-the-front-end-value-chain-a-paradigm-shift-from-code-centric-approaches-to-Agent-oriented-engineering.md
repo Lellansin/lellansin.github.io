@@ -4,6 +4,7 @@ title: >-
   approaches to Agent-oriented engineering
 date: 2025-03-10 17:26:38
 tags:
+  - AI
 ---
 
 The rise of Artificial Intelligence (AI) has fundamentally transformed front-end development, redefining technical boundaries, skill sets, and value creation paradigms. As [Xie Yadong](https://www.yadongxie.com/) highlighted at the [19th D2 Terminal Technology Conference](https://d2.alibabatech.com/), front-end developers must adapt to AI-driven technologies to maintain their competitive edge. This transformation aligns with Tim O'Reilly's groundbreaking article, ["The End of Programming as We Know It"](https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/), which compellingly argues that AI is not just changing how we code, but fundamentally redefining what programming means in the age of intelligent systems. These insights collectively paint a vivid picture of an industry in flux, where traditional development approaches are giving way to AI-enhanced methodologies.
