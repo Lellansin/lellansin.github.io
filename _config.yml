@@ -3,17 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Lellansin's Blog
+subtitle: 'stay hungry, stay foolish'
+description: 'find your own way'
 keywords:
-author: John Doe
+  - Lellansin
+  - Blog
+author: Lellansin
 language: en
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://lellansin.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -101,6 +103,4 @@ theme: SoSimple
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: https://github.com/lellansin/lellansin.github.io.git
-  branch: main
+  type: ''
