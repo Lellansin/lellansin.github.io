@@ -49,8 +49,16 @@ At the time, GitHub Copilot, Codex, Windsurf, and Claude Code were all Cursor's 
 
 When Cursor rules emerged, the industry's attention remained focused on Copilot and code completion optimization. By the time Skill launched, Agent-based workflows, long-running tasks, and capability reuse had become explicit demands. The same underlying concept, proposed at different moments, naturally yields vastly different impact.
 
-## Conclusion
+## Beyond This Case: A Glimpse into LLM's Next Chapter
 
-Rather than saying Claude once again "beat everyone to a simple idea," it's more accurate to say Anthropic took an existing concept and, **from the right position with the right depth of integration**, transformed it into a foundational model-layer capability.
+From the moment Claude began hardcoding these capabilities into the model layer and abstracting them into reusable, promotable standards, we can already glimpse the next phase of LLM development.
 
-The lesson here extends beyond this specific case: in the AI era, being first matters less than being positioned to make an idea native to the model itself.
+Over the past few years, industry discussions have largely centered on whether the Scaling Law is hitting its ceiling: high-quality internet text data is being rapidly consumed, and the marginal returns from simply scaling parameters and data are diminishing. But this doesn't mean large models are approaching their capability limits. What's actually hitting a bottleneck is just one narrow form of capability—**text prediction**.
+
+As LLMs are increasingly deployed for real-world tool invocation, code collaboration, task execution, and multi-step decision-making, we're beginning to discover stable, reproducible capability patterns through practice. Once these patterns are validated across enough real-world scenarios, their generality and effectiveness become an extremely valuable data asset—and model vendors are uniquely positioned to systematically acquire and evaluate this data.
+
+Under this premise, continuously "hardcoding" mature capability patterns into the model layer is no longer just an extension of prompt engineering—it represents a capability evolution path. Models are no longer merely predicting the most likely next text; they are learning to predict **the most reasonable next action**.
+
+As this "behavior prediction" capability becomes increasingly internalized within models themselves, the core of LLM competition will shift accordingly—from who can generate the most human-like text to who can most reliably predict and execute the correct next action sequence. Ultimately, the models that can consistently make high-quality next-step decisions in complex tasks will win this race.
+
+From this perspective, Anthropic is leveraging standard-setting to acquire more structured capability data, then using that data to train even stronger foundation models. This isn't a path with immediately visible returns, but in the positive feedback loop of **"capability → data → model → stronger capability,"** Anthropic is clearly leading the pack.
